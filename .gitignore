@@ -1,0 +1,7 @@
+# Python이 자동으로 만드는 임시 파일과 폴더
+__pycache__/
+*.py[cod]
+
+# 가상 환경 폴더
+.venv/
+venv/
